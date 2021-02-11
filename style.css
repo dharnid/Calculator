@@ -1,0 +1,44 @@
+.title{ 
+    
+    margin-bottom: 15px; 
+    text-align:center; 
+    width: 210px; 
+    color:rgba(11, 24, 11, 0.116); 
+    border: solid black 2px; 
+    } 
+
+    input[type="button"] 
+    { 
+        
+    background-color:rgb(223, 230, 223); 
+    color: black; 
+    border: solid black 2px; 
+    width:100% ;
+    
+    } 
+
+    input[type="text"] 
+    { 
+        font-size: medium;
+    background-color:white; 
+    border: solid black 4px; 
+    width:100% 
+    } 
+    input[value="c"]
+    {
+        font-size: x-large;
+        font-style: italic;
+    }
+    input[value="1"] ,[value="2"],[value="3"],[value="4"],[value="5"],[value="6"],[value="7"],[value="8"]
+    ,[value="9"],[value="0"],[value="/"],[value="*"],[value="-"],[value="+"],[value="="],[value="."]
+    {
+        font-size: x-large;
+        font-style: italic;
+    }
+  
+
+    .h1{
+        font-style: italic;
+        font-weight: bold;
+        font-size:25px;
+    }
